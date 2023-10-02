@@ -1,0 +1,14 @@
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\bin\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.exe
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\bin\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.deps.json
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\bin\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.runtimeconfig.json
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\bin\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\bin\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.pdb
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.AssemblyInfoInputs.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.AssemblyInfo.cs
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.csproj.CoreCompileInputs.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\refint\LeetCode - 0020 - Valid Parentheses.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.pdb
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\LeetCode - 0020 - Valid Parentheses.genruntimeconfig.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0020-valid_parentheses-csharp\LeetCode - 0020 - Valid Parentheses\LeetCode - 0020 - Valid Parentheses\obj\Debug\net6.0\ref\LeetCode - 0020 - Valid Parentheses.dll
